@@ -1,0 +1,35 @@
+.piContainer { 
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center */
+  margin-top: 20px;
+}
+.piBox { 
+  width: 20px;
+  height: 20px;
+  margin: 1px
+}
+
+/* white to black */
+/* .pi0 { background: rgb(255, 255, 255) }
+.pi1 { background: rgb(223, 223, 223) }
+.pi2 { background: rgb(192, 192, 192) }
+.pi3 { background: rgb(151, 151, 151) }
+.pi4 { background: rgb(124, 124, 124) }
+.pi5 { background: rgb(97, 97, 97) }
+.pi6 { background: rgb(83, 83, 83) }
+.pi7 { background: rgb(66, 66, 66) }
+.pi8 { background: rgb(37, 37, 37) }
+.pi9 { background: rgb(0, 0, 0) } */
+
+/* rainbow */
+.pi0 { background: rgb(251, 255, 0) }
+.pi1 { background: rgb(255, 217, 0) }
+.pi2 { background: rgb(255, 174, 0) }
+.pi3 { background: rgb(255, 123, 0) }
+.pi4 { background: rgb(255, 0, 0) }
+.pi5 { background: rgb(247, 0, 255) }
+.pi6 { background: rgb(0, 26, 255) }
+.pi7 { background: rgb(0, 132, 255) }
+.pi8 { background: rgb(0, 217, 255) }
+.pi9 { background: rgb(0, 255, 128) }
